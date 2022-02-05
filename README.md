@@ -1,7 +1,7 @@
 # hello-world
 
-# my first repository
+# my first repository and my first changes to a file
 
-# My first changes to a file.
+# I'm currently learning to code with Python, how to use Pycharm, Git, and Github
 
-# Second changes with the description this time
+# No specific goal in mind for now ... let's see where this leads us !
